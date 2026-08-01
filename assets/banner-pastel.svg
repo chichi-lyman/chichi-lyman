@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ffd6e0">
+        <animate attributeName="stop-color" values="#ffd6e0;#ffe9b8;#d7f7d9;#dbe7ff;#ffd6e0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#dbe7ff">
+        <animate attributeName="stop-color" values="#dbe7ff;#ffd6e0;#ffe9b8;#d7f7d9;#dbe7ff" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#d7f7d9">
+        <animate attributeName="stop-color" values="#d7f7d9;#dbe7ff;#ffd6e0;#ffe9b8;#d7f7d9" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#g)" rx="16" ry="16"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-size="36" fill="#111">Chelsea Lyman</text>
+  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" fill="#111" opacity="0.9">AI Architect • Multi-Agent Systems • Full-Stack Engineer</text>
+</svg>
