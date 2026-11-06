@@ -29,11 +29,15 @@ Projects below represent the portfolio's principal areas of exploration and impl
 ## Academic background
 
 **American InterContinental University (AIU)**  
-Bachelor of Science candidate in Criminal Justice — criminology / criminal investigation and CSI focus; AI Software Engineering track reported. **Anticipated graduation: 2027.**
+Bachelor of Science candidate in Criminal Justice — **Forensic Science specialization** (criminology / criminal investigation focus reported); AI Software Engineering track reported. **Anticipated graduation: 2027.**
 
-Academic record details supplied for the portfolio include the Identity and Statement of Educational Purpose for 2023–2024 and institutional honors criteria. Dean's List and President's Academic Excellence Award criteria are not presented as awards earned; term-specific award or transcript evidence should be linked if applicable.
+Academic record details supplied for the portfolio include an Identity and Statement of Educational Purpose for 2023–2024 and institutional honors criteria. Dean's List and President's Academic Excellence Award criteria are not presented as awards earned; term-specific award or transcript evidence should be linked if applicable.
 
 [AIU Virtual Campus](https://my.aiu.edu) (student login; private academic records are not public verification).
+
+### Academic-to-engineering application
+
+The [Portfolio Inversion Protocol](https://github.com/chichi-lyman/nova-umbrella-orchestration/blob/main/docs/PORTFOLIO_INVERSION_PROTOCOL.md) describes how forensic science and criminal justice concepts can be translated into software requirements, domain models, audit controls, tests, and synthetic-data demonstrations. Example: CRJS 355 — Evidence mapped to a proposed chain-of-custody workflow. The document labels candidate work separately from implemented and verified functionality.
 
 ## Credential and portfolio evidence
 
