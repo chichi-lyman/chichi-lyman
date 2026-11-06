@@ -26,21 +26,31 @@ Projects below represent the portfolio's principal areas of exploration and impl
 - **[Vapor Core](https://github.com/chichi-lyman/vapor-core)** — Rust-oriented runtime and orchestration exploration.
 - **[Nova Umbrella](https://github.com/chichi-lyman/Nova_Umbrella)** — Ecosystem-level architecture and product direction.
 
+## Academic background
+
+**American InterContinental University (AIU)**  
+Bachelor of Science candidate in Criminal Justice — criminology / criminal investigation and CSI focus; AI Software Engineering track reported. **Anticipated graduation: 2027.**
+
+Academic record details supplied for the portfolio include the Identity and Statement of Educational Purpose for 2023–2024 and institutional honors criteria. Dean's List and President's Academic Excellence Award criteria are not presented as awards earned; term-specific award or transcript evidence should be linked if applicable.
+
+[AIU Virtual Campus](https://my.aiu.edu) (student login; private academic records are not public verification).
+
 ## Credential and portfolio evidence
 
-- [Credential verification registry](./credentials/REGISTRY.md) — exact title, issuer, status, completion date, credential URL, and applied project evidence; unverified fields are explicitly marked.
+- [Credential verification registry](./credentials/REGISTRY.md) — reported education and certificates, exact title, issuer, status, completion date, credential URL, and applied project evidence. Unavailable verification fields are explicitly marked.
 - [Portfolio evidence & mastery roadmap](./PORTFOLIO_EVIDENCE_ROADMAP.md) — maturity scale, workstreams, case-study template, and claim review checklist.
 
 ## Learning and professional development
 
-My active study stack is designed to strengthen the bridge between engineering, AI adoption, organizational leadership, and program delivery:
+The reported learning and certificate pathways include:
 
-- **Computer science & software engineering:** CS50 and full-stack application engineering.
-- **AI adoption & strategy:** MIT Sloan AI adoption and Harvard Kennedy School AI in Action.
-- **Leadership & organizational execution:** Harvard Business School CLIMB and Harvard Kennedy School Leading Successful Programs.
-- **Project delivery:** Google Project Management, including Agile-oriented planning and execution.
+- **Computer science & AI:** HarvardX CS50x — *CS50's Introduction to Computer Science*; CS50AI — *CS50's Introduction to Artificial Intelligence with Python*.
+- **AI adoption & strategy:** MIT Sloan — AI Adoption & Strategy (exact issuer title to confirm); Harvard Kennedy School — AI in Action (exact program title to confirm).
+- **Leadership & organizational execution:** Harvard Business School — CLIMB (exact credential wording to confirm); Harvard Kennedy School — Leading Successful Programs (exact title to confirm).
+- **Project delivery:** Google Project Management Professional Certificate (exact credential title to confirm).
+- **Full-stack engineering:** SkillUp Online — Full Stack Application Engineering (exact issuer title to confirm).
 
-**Credential integrity:** This section describes a learning and development focus, not a claim that every course or certification is completed. Completion status, issuer, dates, and credential links should be added only when verified from the learner's records. Course learning is paired with project artifacts wherever possible.
+**Credential integrity:** These are owner-reported learning and credential records. Public certificate links, credential IDs, and dates are not yet supplied for every entry; the registry differentiates reported records from independently verified credentials. CS50 course certificates and edX verified certificates are distinct credential types and should be labeled accurately.
 
 ## How I demonstrate expertise
 
