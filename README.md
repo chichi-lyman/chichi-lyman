@@ -23,7 +23,7 @@ Projects below represent the portfolio's principal areas of exploration and impl
 - **[Saphira AI](https://github.com/chichi-lyman/saphira-ai)** — AI assistant platform and provider-neutral application architecture.
 - **[Saphira ASI Core](https://github.com/chichi-lyman/saphira-asi-core)** — Core intelligence and orchestration research/engineering.
 - **[Nova Umbrella Orchestration](https://github.com/chichi-lyman/nova-umbrella-orchestration)** — Multi-agent orchestration and ecosystem integration.
-  - **[CRJS 355 Evidence Ledger prototype](https://github.com/chichi-lyman/nova-umbrella-orchestration/tree/feat/crjs355-evidence-ledger/evidence-ledger)** — Synthetic-data Python/SQLite reference module, API adapter, OpenAPI contract, test suite, and demo. [Open draft PR](https://github.com/chichi-lyman/nova-umbrella-orchestration/pull/1); implementation and CI status remain under review.
+  - **[CRJS 355 Evidence Ledger prototype](https://github.com/chichi-lyman/nova-umbrella-orchestration/tree/main/evidence-ledger)** — Synthetic-data Python/SQLite reference module, API adapter, OpenAPI contract, test suite, and demo. **CI:** GitHub Actions compile check and all 9 unit tests passed on the implementation PR.
 - **[Vapor Core](https://github.com/chichi-lyman/vapor-core)** — Rust-oriented runtime and orchestration exploration.
 - **[Nova Umbrella](https://github.com/chichi-lyman/Nova_Umbrella)** — Ecosystem-level architecture and product direction.
 
