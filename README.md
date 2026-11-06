@@ -26,6 +26,11 @@ Projects below represent the portfolio's principal areas of exploration and impl
 - **[Vapor Core](https://github.com/chichi-lyman/vapor-core)** — Rust-oriented runtime and orchestration exploration.
 - **[Nova Umbrella](https://github.com/chichi-lyman/Nova_Umbrella)** — Ecosystem-level architecture and product direction.
 
+## Credential and portfolio evidence
+
+- [Credential verification registry](./credentials/REGISTRY.md) — exact title, issuer, status, completion date, credential URL, and applied project evidence; unverified fields are explicitly marked.
+- [Portfolio evidence & mastery roadmap](./PORTFOLIO_EVIDENCE_ROADMAP.md) — maturity scale, workstreams, case-study template, and claim review checklist.
+
 ## Learning and professional development
 
 My active study stack is designed to strengthen the bridge between engineering, AI adoption, organizational leadership, and program delivery:
