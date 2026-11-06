@@ -1,119 +1,72 @@
-![banner-pastel](assets/banner-pastel.svg)
+# Chelsea Megan Woods
+### AI Systems Architect | Technical Product Strategy | Digital Transformation
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
-  <defs>
-    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#0ff"/>
-      <stop offset="30%" stop-color="#60f"/>
-      <stop offset="60%" stop-color="#f0f"/>
-      <stop offset="100%" stop-color="#ff0"/>
-      <animate xlink:href="#g2 stop[0]" attributeName="stop-color" values="#0ff;#60f;#f0f;#ff0;#0ff" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="240" fill="url(#g2)" rx="16" ry="16"/>
-  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-size="36" fill="#fff">Chelsea Lyman</text>
-  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" fill="#fff" opacity="0.95">AI Architect • Multi-Agent Systems • Full-Stack Engineer</text>
-</svg>
+I design and develop AI-enabled systems that connect business strategy with technical execution. My focus is turning complex operational problems into measurable, governed, and deployable software—through architecture, product thinking, automation, and evidence-led delivery.
 
-# Chelsea Lyman – AI Architect & Full-Stack Engineer
+**Professional thesis:** Strong technology leadership requires the ability to communicate with engineers, align with executive priorities, and carry initiatives from discovery through implementation, verification, and operational learning.
 
-## 🚀 About Me
+## What I bring
 
-I'm an **AI architect specializing in autonomous agent systems, multi-modal intelligence frameworks, and sovereign computing architectures**. I build resilient multi-agent orchestration, production-ready assistants, and compile-forensic intelligence systems.
+| Capability | How I apply it | Evidence to look for |
+|---|---|---|
+| AI systems architecture | Provider-neutral model integration, multi-agent workflows, orchestration, resilience | Architecture decisions, interfaces, tests, integration examples |
+| Technical product management | Requirements, prioritization, acceptance criteria, roadmap trade-offs | PRDs, product specs, issues, release notes |
+| Digital transformation | Workflow analysis, systems integration, process automation | Before/after process maps, integration tests, outcome metrics |
+| AI adoption & governance | ROI hypotheses, readiness, risk controls, human review | Evaluation plans, risk registers, policy gates, audit trails |
+| Full-stack engineering | Frontend, APIs, persistence, deployment, operational tooling | Source code, CI, tests, deployment documentation |
+| Program execution | Scope, dependencies, milestones, stakeholder communication | Plans, decision records, status and retrospective notes |
 
-**Core Expertise:**
-- **Autonomous Agents** – Multi-agent orchestration, recursive intelligence frameworks
-- **AI/ML Systems** – Large context windows, forensic analysis engines, code synthesis
-- **Full-Stack Development** – TypeScript, Python, Rust; Docker, Firebase, Vercel
-- **DevOps & Infrastructure** – Kubernetes-ready systems, self-healing protocols, CI/CD automation
-- **Security & Governance** – Policy enforcement, system integrity verification, resilience patterns
+## Featured work
 
----
+Projects below represent the portfolio's principal areas of exploration and implementation. Each repository should be evaluated by its current source, documentation, tests, and release state; planned capabilities are distinguished from verified functionality.
 
-## 🌈 Theme & Visuals
-I added animated banner variants (pastel and dark neon) to this README so the top section cycles through beautiful, high-contrast palettes. The effect is implemented with inline SVGs so it renders on GitHub and adapts to light/dark modes.
+- **[Saphira AI](https://github.com/chichi-lyman/saphira-ai)** — AI assistant platform and provider-neutral application architecture.
+- **[Saphira ASI Core](https://github.com/chichi-lyman/saphira-asi-core)** — Core intelligence and orchestration research/engineering.
+- **[Nova Umbrella Orchestration](https://github.com/chichi-lyman/nova-umbrella-orchestration)** — Multi-agent orchestration and ecosystem integration.
+- **[Vapor Core](https://github.com/chichi-lyman/vapor-core)** — Rust-oriented runtime and orchestration exploration.
+- **[Nova Umbrella](https://github.com/chichi-lyman/Nova_Umbrella)** — Ecosystem-level architecture and product direction.
 
----
+## Learning and professional development
 
-## 🌟 Featured Projects
-Below are the strongest repositories and monorepos from my work — core engines, orchestration frameworks, and full-stack AI apps.
+My active study stack is designed to strengthen the bridge between engineering, AI adoption, organizational leadership, and program delivery:
 
-1) **saphira-asi-core** — The primary intelligence and execution engine for recursive autonomous intelligence.
-- Repo: https://github.com/chichi-lyman/saphira-asi-core
-- Tech: Python, Docker, FastAPI
-- Highlights: core engine for the Saphira ASI ecosystem; multi-agent orchestration and planning
+- **Computer science & software engineering:** CS50 and full-stack application engineering.
+- **AI adoption & strategy:** MIT Sloan AI adoption and Harvard Kennedy School AI in Action.
+- **Leadership & organizational execution:** Harvard Business School CLIMB and Harvard Kennedy School Leading Successful Programs.
+- **Project delivery:** Google Project Management, including Agile-oriented planning and execution.
 
-2) **saphira-ai** — Proactive personal assistant
-- Repo: https://github.com/chichi-lyman/saphira-ai
-- Tech: Python
-- Highlights: personal assistant architecture and integrations; production-facing assistant capabilities
+**Credential integrity:** This section describes a learning and development focus, not a claim that every course or certification is completed. Completion status, issuer, dates, and credential links should be added only when verified from the learner's records. Course learning is paired with project artifacts wherever possible.
 
-3) **vapor-core** — Orchestration & sovereign intelligence framework (Rust)
-- Repo: https://github.com/chichi-lyman/vapor-core
-- Tech: Rust
-- Highlights: high-performance orchestration primitives and agent runtime components
+## How I demonstrate expertise
 
-4) **openclaw** — Cross-platform personal AI assistant
-- Repo: https://github.com/chichi-lyman/openclaw
-- Tech: Multi-stack
-- Highlights: desktop-first assistant design, focused on extensibility and cross-platform support
+I aim to make technical and leadership claims auditable rather than relying on titles or adjectives:
 
-5) **vercel-ai-chatbot** — Full-stack AI chatbot (Supabase + Vercel)
-- Repo: https://github.com/chichi-lyman/vercel-ai-chatbot
-- Tech: Next.js, Supabase
-- Highlights: production-ready chatbot integration with Supabase and Vercel; deployable reference app
+1. **Problem framing:** Define the user, business problem, constraints, and success measures.
+2. **Architecture:** Document system boundaries, interfaces, data flows, and trade-offs.
+3. **Execution:** Implement in reviewable increments with clear acceptance criteria.
+4. **Verification:** Provide automated tests, reproducible checks, and honest limitations.
+5. **Governance:** Make authorization, human approval, privacy, and audit requirements explicit.
+6. **Impact:** Report measured outcomes only when supported by evidence; label estimates and hypotheses clearly.
 
-6) **agent-zero** — Agent framework
-- Repo: https://github.com/chichi-lyman/agent-zero
-- Tech: Python
-- Highlights: foundational framework for agent orchestration and skills
+## Portfolio evidence standard
 
-7) **nova-umbrella-orchestration** — Sovereign orchestration for the Nova ecosystem
-- Repo: https://github.com/chichi-lyman/nova-umbrella-orchestration
-- Tech: Multi-stack
-- Highlights: orchestration and self-healing design for complex ecosystems
+For substantive projects, look for or expect the following artifacts:
 
-8) **requestly** — Open-source HTTP interceptor & mocking tool
-- Repo: https://github.com/chichi-lyman/requestly
-- Tech: Web tooling
-- Highlights: developer tooling for request interception, mocking, and testing
+- Product brief / requirements and measurable acceptance criteria
+- System architecture and architecture decision records (ADRs)
+- Threat model, privacy considerations, and governance controls
+- Implementation details, setup instructions, and configuration examples
+- Automated tests, CI status, evaluation methodology, and known limitations
+- Release/deployment notes, monitoring plan, and rollback approach
+- Outcome report distinguishing measured results from estimates
 
----
+## Connect
 
-## 📫 Socials & Links
-- Twitter / X: [@ChelseaMeganWoods](https://twitter.com/ChelseaMeganWoods)
-- Nova AI demo: https://novaai-h73r5fzf.manus.space
-- Instagram: https://www.instagram.com/chelsiaaa.woods?igsh=MXMycmg5MWtwNmI0aw==
-- TikTok: https://www.tiktok.com/@chelsiawoods?_r=1&_t=ZP-96kHMwCkxsF
-- Alternate handles (profiles): xx.Its.chichi.xx, chelsea.woods.39750121
 - GitHub: [@chichi-lyman](https://github.com/chichi-lyman)
+- Project work: browse the repositories linked above.
 
 ---
 
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=chichi-lyman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+*I build at the intersection of AI systems, product strategy, and operational execution—using evidence, engineering discipline, and measurable outcomes to make complex initiatives tractable.*
 
-- Built production-ready multi-agent orchestration engines and personal AI assistants
-- Developed cross-platform agent runtimes and Rust-based orchestration primitives
-- Published tooling for developer workflows (requestly)
-
----
-
-## 📊 GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichi-lyman&show_icons=true&theme=radical&count_private=true)](https://github.com/chichi-lyman)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chichi-lyman&theme=dark)](https://github.com/chichi-lyman)
-
----
-
-## 🎯 Current Focus
-- Scaling sovereign intelligence frameworks for enterprise adoption
-- Building resilient multi-agent architectures that self-optimize
-- Creating governance layers for autonomous systems (policy enforcement, forensic auditing)
-
----
-
-*If you'd like, I can also:*
-- Replace the banner palette or produce two alternative banners (pastel / dark neon),
-- Add micro screenshots or animated GIFs for each featured project.
-
-Thanks — I finalized the README, added banner variants, and prepared the top repos for pinning.
+**By Chelsea Megan Woods**
